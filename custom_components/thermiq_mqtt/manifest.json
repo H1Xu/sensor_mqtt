@@ -1,6 +1,6 @@
 {
-  "domain": "test",
-  "name": "ThermIQ MQTT Integration",
+  "domain": "Isensit",
+  "name": "multisensor",
   "config_flow": true,
   "dependencies": ["mqtt"],
   "documentation": "https://github.com/thermiq/thermiq_mqtt-ha",
