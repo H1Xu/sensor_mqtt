@@ -1,5 +1,5 @@
 {
-  "domain": "ISENSIT",
+  "domain": "thermiq_mqtt",
   "name": "ThermIQ MQTT Integration",
   "config_flow": true,
   "dependencies": ["mqtt"],
